@@ -17,8 +17,8 @@ A sleek and responsive **BMI (Body Mass Index) Calculator** built using HTML, CS
 
 ## Technologies Used
 
-- HTML5
-- CSS3 + Bootstrap 5
-- JavaScript (Vanilla)
+- HTML
+- CSS + Bootstrap 
+- JavaScript
 
 ---
