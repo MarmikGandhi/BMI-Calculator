@@ -22,7 +22,7 @@ A sleek, animated, and user-friendly **BMI (Body Mass Index)** calculator built 
 
 ## 🚀 Demo
 
-Want to try it out? [Click here to open the live demo](https://hangman-game-marmik.netlify.app/)
+Want to try it out? [Click here to open the live demo](https://bmi-calculator-marmik.netlify.app/)
 
 ---
 
