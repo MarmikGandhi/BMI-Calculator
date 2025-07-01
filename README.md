@@ -66,10 +66,6 @@ The **BMI (Body Mass Index)** is a value derived from an individual's height and
 
 ### 🧪 Calculation Formula
 
-\[
-\text{BMI} = \frac{\text{Weight (kg)}}{(\text{Height (m)})^2}
-\]
-
 Since the user inputs height in **centimeters**, it is first converted to **meters** during the calculation. The JavaScript logic looks like this:
 
 ```javascript
@@ -84,4 +80,4 @@ let bmi = (weight / ((height * height) / 10000)).toFixed(2);
 📧 [your.email@example.com](mailto:your.email@example.com)  
 🌐 [GitHub Profile](https://github.com/your-username)
 
-If you found this project helpful or interesting, feel free to ⭐ the repo and follow me on GitHub!
+If you found this project helpful or interesting, feel free to the repo and follow me on GitHub!
