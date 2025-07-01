@@ -77,7 +77,7 @@ let bmi = (weight / ((height * height) / 10000)).toFixed(2);
 ## 👨‍💻 Author
 
 **Marmik Gandhi**  
-📧 [your.email@example.com](mailto:your.email@example.com)  
-🌐 [GitHub Profile](https://github.com/your-username)
+📧 [your.email@example.com](mailto:marmikgandhiemail.com)  
+🌐 [GitHub Profile](https://github.com/MarmikGandhi)
 
 If you found this project helpful or interesting, feel free to the repo and follow me on GitHub!
