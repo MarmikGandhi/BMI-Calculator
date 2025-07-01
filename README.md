@@ -23,7 +23,7 @@ A sleek, animated, and user-friendly **BMI (Body Mass Index)** calculator built 
 ## 🚀 Demo
 
 Want to try it out? [Click here to open the live demo](#)  
-*(Add GitHub Pages or deployment link here if available)*
+*((https://bmi-calculator-marmik.netlify.app/))*
 
 ---
 
