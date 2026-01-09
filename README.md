@@ -1,5 +1,5 @@
 
-# 💪 BMI Calculator
+# BMI Calculator
 
 A sleek, animated, and user-friendly **BMI (Body Mass Index)** calculator built using HTML, CSS (Bootstrap), and JavaScript. Easily determine your BMI category — Underweight, Normal, or Overweight — with a modern UI and simple input form.
 
@@ -7,7 +7,7 @@ A sleek, animated, and user-friendly **BMI (Body Mass Index)** calculator built 
 
 ---
 
-## 🧮 Features
+## Features
 
 - ✅ Real-time BMI calculation on button click
 - ✅ Instant feedback with styled categories:
@@ -20,13 +20,13 @@ A sleek, animated, and user-friendly **BMI (Body Mass Index)** calculator built 
 
 ---
 
-## 🚀 Demo
+## Demo
 
 Want to try it out? [Click here to open the live demo](https://bmi-calculator-marmik.netlify.app/)
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ├── index.html     # Main HTML file (UI layout)
@@ -36,7 +36,7 @@ Want to try it out? [Click here to open the live demo](https://bmi-calculator-ma
 
 ---
 
-## 🧰 Technologies Used
+## Technologies Used
 
 - HTML5  
 - CSS3 (with Bootstrap 5)  
@@ -44,7 +44,7 @@ Want to try it out? [Click here to open the live demo](https://bmi-calculator-ma
 
 ---
 
-## 📝 How to Use
+## How to Use
 
 1. **Clone this repository:**
 
@@ -59,11 +59,11 @@ Want to try it out? [Click here to open the live demo](https://bmi-calculator-ma
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 The **BMI (Body Mass Index)** is a value derived from an individual's height and weight, used to categorize health status.
 
-### 🧪 Calculation Formula
+### Calculation Formula
 
 Since the user inputs height in **centimeters**, it is first converted to **meters** during the calculation. The JavaScript logic looks like this:
 
@@ -73,7 +73,7 @@ let bmi = (weight / ((height * height) / 10000)).toFixed(2);
 
 ---
 
-## 🙋‍♀️ Author
+## Author
 
 Developed by **Marmik Gandhi** Feel free to connect:   
 - GitHub: [@MarmikGandhi](https://github.com/MarmikGandhi)
