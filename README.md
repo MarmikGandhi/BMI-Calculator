@@ -9,14 +9,14 @@ A sleek, animated, and user-friendly **BMI (Body Mass Index)** calculator built 
 
 ## Features
 
-- ✅ Real-time BMI calculation on button click
-- ✅ Instant feedback with styled categories:
+- Real-time BMI calculation on button click
+- Instant feedback with styled categories:
   - Underweight 
   - Normal 
   - Overweight 
-- ✅ Smooth fade-in animation for result display
-- ✅ Fully responsive card-style UI using Bootstrap 5
-- ✅ Emoji-enhanced input design for better user experience
+- Smooth fade-in animation for result display
+- Fully responsive card-style UI using Bootstrap 5
+- Emoji-enhanced input design for better user experience
 
 ---
 
